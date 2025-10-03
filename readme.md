@@ -1,5 +1,4 @@
-
-<div align="center">📝 Documentation VPS Linux:📝</div>
+📝 Documentation VPS Linux:📝
 ---
 #### [1. VPS Setup:](VPS_Setup/readme.md)
 - [Server specification](VPS_Setup/readme.md)
