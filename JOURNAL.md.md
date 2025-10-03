@@ -1,0 +1,1 @@
+1.  Purchase a vps server and install ubuntu server:
